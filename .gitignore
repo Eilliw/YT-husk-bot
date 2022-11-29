@@ -1,0 +1,17 @@
+
+discord.log
+client_secret.json
+desktop_app_files/*
+.env
+venv/*
+
+#log files
+*.log
+#pycache folders
+**/__pycache__
+
+#ffmpeg files
+ffmpeg-5.1.2-essentials_build/*
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
